@@ -1,0 +1,19 @@
+{
+  "name": "code_with_fajur_atm_machine",
+  "version": "1.0.0",
+  "description": "This is my 3rd project in which I'm making ATM Machine,you can easily withdraw your amount by using my ATM Machine",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dua Majeed",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
